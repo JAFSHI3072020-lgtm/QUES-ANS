@@ -1,0 +1,2 @@
+# QUES-ANS
+c++ code 
